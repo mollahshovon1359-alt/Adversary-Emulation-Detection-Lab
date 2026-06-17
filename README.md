@@ -42,7 +42,7 @@ macOS HOST SYSTEM
          ↓
   [macOS Web Browser] → UI Analysis (Port 8000)
 ```
-[![Alt Text](17769a96-2ac4-4d1a-b704-ff9452092464.JPG)
+[![Alt Text]
 ---
 
 ## Lab Setup
